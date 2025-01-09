@@ -1,4 +1,4 @@
-### CanvaClone - Designer's Tool
+# CanvaClone - Designer's Tool
 
 A pixel-perfect clone of Canva's User Interface built with vanilla HTML and CSS.
 
@@ -16,4 +16,4 @@ A pixel-perfect clone of Canva's User Interface built with vanilla HTML and CSS.
 - CSS3
 - Font Awesome Icons
 
-## Made with 💻 and CSS
+### Made with 💻 and CSS
